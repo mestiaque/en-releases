@@ -1,0 +1,21 @@
+{
+  "tag_name": "v0.3.0",
+  "name": "ENDisk v0.3.0",
+  "body": "ENDisk 0.3.0 for Ubuntu Linux.\n\n> ⚠️ **Early release.** Linux builds only. Back up important data before resizing, converting, cloning or repairing disks.\n\n## Install (Ubuntu 22.04+)\n\n```bash\nsudo apt install ./ENDisk_0.3.0_amd64.deb\n```\n\nOr run the AppImage (`chmod +x ENDisk_0.3.0_amd64.AppImage`). Upgrading from 0.2.0 works the same way.\n\n## What's new\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with the sidebar and the work area as clear frosted glass with bright rims. Cards, buttons, fields and switches are glass too, and dialogs frost properly.\n- **Theme in Settings**: the theme button moved from the toolbar into Settings → Appearance.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/endisk-v0.3.0",
+  "published_at": "2026-11-19T05:46:17Z",
+  "assets": [
+    {
+      "name": "ENDisk_0.3.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.0/ENDisk_0.3.0_amd64.AppImage",
+      "size": 85064184,
+      "digest": "sha256:fb69a4601be2b610a85c5fab9810f06b2a95ad6508fd5b1bb9918f404594a620"
+    },
+    {
+      "name": "ENDisk_0.3.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.0/ENDisk_0.3.0_amd64.deb",
+      "size": 7035036,
+      "digest": "sha256:633059c0862717a0d69002ca52e63b824e45705024266ed913069cf819a353e8"
+    }
+  ]
+}
