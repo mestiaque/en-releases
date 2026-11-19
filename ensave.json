@@ -1,57 +1,57 @@
 {
-  "tag_name": "v0.3.0",
-  "name": "v0.3.0",
-  "body": "What's new in 0.3.0:\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed.\n- The theme button moved from the toolbar into Settings → Appearance.\n- A failed download can no longer be shown as running again by a late progress update.\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/ensave-v0.3.0",
-  "published_at": "2026-11-19T05:13:11Z",
+  "tag_name": "v0.3.1",
+  "name": "v0.3.1",
+  "body": "What's new in 0.3.1:\n\n- ENSave 0.3.1: updates from the public EN releases list\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/ensave-v0.3.1",
+  "published_at": "2026-11-19T08:51:14Z",
   "assets": [
     {
       "name": "ENDownloader-portable-windows-x64.zip",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENDownloader-portable-windows-x64.zip",
-      "size": 9533514,
-      "digest": "sha256:80739af8bd9b0a61f2a7f021b708e0cd8b82d4ab13ddf4f949c06b51bf74d5cf"
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENDownloader-portable-windows-x64.zip",
+      "size": 9533220,
+      "digest": "sha256:6aeb53480f2ddc5a1a275b98c20255d1a3c450c720e3bc293222841fb814deb4"
     },
     {
-      "name": "ENDownloader_0.3.0_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENDownloader_0.3.0_amd64.AppImage",
+      "name": "ENDownloader_0.3.1_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENDownloader_0.3.1_amd64.AppImage",
       "size": 86280696,
-      "digest": "sha256:3bbbffaf14ca21dad59bc67ad9864d08b081eb544ba05f19bceb1a7e91d9d770"
+      "digest": "sha256:c43a7b961002e6f7e13e47e4ed6adaedddb71d536e40f4c87072a4abe1a73623"
     },
     {
-      "name": "ENDownloader_0.3.0_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENDownloader_0.3.0_amd64.deb",
-      "size": 8130646,
-      "digest": "sha256:5073a1093aec141f1c1abf8dc4b4a46d5c92859fb8a74e91c21cd76ec14a512b"
+      "name": "ENDownloader_0.3.1_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENDownloader_0.3.1_amd64.deb",
+      "size": 8131044,
+      "digest": "sha256:3cefdbdebca25aae28f28f318cfa2aa24c098f73938bddc7f90e9731a07def61"
     },
     {
-      "name": "ENDownloader_0.3.0_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENDownloader_0.3.0_x64-setup.exe",
-      "size": 6902533,
-      "digest": "sha256:b79b2b8dbe0034d5a84e409312eca0dc202412037447a5a7712e4884c4d54e61"
+      "name": "ENDownloader_0.3.1_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENDownloader_0.3.1_x64-setup.exe",
+      "size": 6902624,
+      "digest": "sha256:72653cacf25b15dd72570d6489417e2c1392c4b80bb1300bc3cfb7c7bfac0ea5"
     },
     {
       "name": "ENSave-portable-windows-x64.zip",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENSave-portable-windows-x64.zip",
-      "size": 9533514,
-      "digest": "sha256:80739af8bd9b0a61f2a7f021b708e0cd8b82d4ab13ddf4f949c06b51bf74d5cf"
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave-portable-windows-x64.zip",
+      "size": 9533220,
+      "digest": "sha256:6aeb53480f2ddc5a1a275b98c20255d1a3c450c720e3bc293222841fb814deb4"
     },
     {
-      "name": "ENSave_0.3.0_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENSave_0.3.0_amd64.AppImage",
+      "name": "ENSave_0.3.1_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_amd64.AppImage",
       "size": 86280696,
-      "digest": "sha256:3bbbffaf14ca21dad59bc67ad9864d08b081eb544ba05f19bceb1a7e91d9d770"
+      "digest": "sha256:c43a7b961002e6f7e13e47e4ed6adaedddb71d536e40f4c87072a4abe1a73623"
     },
     {
-      "name": "ENSave_0.3.0_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENSave_0.3.0_amd64.deb",
-      "size": 8130646,
-      "digest": "sha256:5073a1093aec141f1c1abf8dc4b4a46d5c92859fb8a74e91c21cd76ec14a512b"
+      "name": "ENSave_0.3.1_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_amd64.deb",
+      "size": 8131044,
+      "digest": "sha256:3cefdbdebca25aae28f28f318cfa2aa24c098f73938bddc7f90e9731a07def61"
     },
     {
-      "name": "ENSave_0.3.0_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.0/ENSave_0.3.0_x64-setup.exe",
-      "size": 6902533,
-      "digest": "sha256:b79b2b8dbe0034d5a84e409312eca0dc202412037447a5a7712e4884c4d54e61"
+      "name": "ENSave_0.3.1_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_x64-setup.exe",
+      "size": 6902624,
+      "digest": "sha256:72653cacf25b15dd72570d6489417e2c1392c4b80bb1300bc3cfb7c7bfac0ea5"
     }
   ]
 }
