@@ -1,0 +1,27 @@
+{
+  "tag_name": "v0.2.0",
+  "name": "v0.2.0",
+  "body": "What's new in 0.2.0:\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed.\n- The theme button moved from the toolbar into Settings → Appearance.\n- Code and JSON colours use deeper shades on the light and glass themes.\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enpost-v0.2.0",
+  "published_at": "2026-11-19T05:24:33Z",
+  "assets": [
+    {
+      "name": "ENPost_0.2.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.0/ENPost_0.2.0_amd64.AppImage",
+      "size": 84908536,
+      "digest": "sha256:4cfaaea40ece3337fce5f504ee22284a59d7dece2afa7d726bf980b5007ee76e"
+    },
+    {
+      "name": "ENPost_0.2.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.0/ENPost_0.2.0_amd64.deb",
+      "size": 6790908,
+      "digest": "sha256:dd6511211f35cfe0540e109c9d9461f14732670223774582cf4bf6e230f0d207"
+    },
+    {
+      "name": "ENPost_0.2.0_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.0/ENPost_0.2.0_x64-setup.exe",
+      "size": 4664292,
+      "digest": "sha256:22211f0bd5035305021b8a962c2b91238f55f745c3a527d6ec32f378ae206680"
+    }
+  ]
+}
