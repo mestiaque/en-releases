@@ -1,27 +1,27 @@
 {
-  "tag_name": "v1.5.1",
-  "name": "v1.5.1",
-  "body": "What's new in 1.5.1 (with everything from 1.5.0):\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed. Copies installed in Program Files update too (Windows asks for permission).\n- **Library scans and thumbnails no longer get stuck** on slower PCs or when the Glass theme is on.\n- **Player**: compact top and bottom bars, no square shadow under the centre button, drag the window by the top bar or the video, subtitle files next to a video are shown, Open file plays the rest of the folder, screenshots are named after the video and time.\n- **Library**: counts update after a scan, songs are counted apart from videos, short libraries show minutes.\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enplayer-v1.5.1",
-  "published_at": "2026-11-19T05:05:56Z",
+  "tag_name": "v1.5.2",
+  "name": "v1.5.2",
+  "body": "What's new in 1.5.2:\n\n- ENPlayer 1.5.2: updates from the public EN releases list\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enplayer-v1.5.2",
+  "published_at": "2026-11-19T07:05:16Z",
   "assets": [
     {
-      "name": "ENPlayer-Setup-1.5.1.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.1/ENPlayer-Setup-1.5.1.exe",
-      "size": 89503577,
-      "digest": "sha256:6cbe3ec7e688f8b52baee4b9910bc34d4cd1c305fe1f8c102da30ad7696cb7be"
+      "name": "ENPlayer-Setup-1.5.2.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/ENPlayer-Setup-1.5.2.exe",
+      "size": 89507409,
+      "digest": "sha256:87c033ef332372e2647e308c872d185261089dd9a18e4e01dba84536b7934085"
     },
     {
-      "name": "enplayer_1.5.1_all.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.1/enplayer_1.5.1_all.deb",
-      "size": 286096,
-      "digest": "sha256:c9c2ad77a109add0550b0116c39388908ec8949dc2cb508c7d11d7a4b59ce65f"
+      "name": "enplayer_1.5.2_all.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_all.deb",
+      "size": 286264,
+      "digest": "sha256:2387e8ada29140945cdb89b7e6526a955afc3c9c8d5e0c3c22d107e56dd0a493"
     },
     {
-      "name": "enplayer_1.5.1_amd64.snap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.1/enplayer_1.5.1_amd64.snap",
+      "name": "enplayer_1.5.2_amd64.snap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_amd64.snap",
       "size": 143155200,
-      "digest": "sha256:25bb5b5c90c21eea77a807d0940f9ba7d56019c0532942aa4428e33d454edaa5"
+      "digest": "sha256:9b13f62ff06c3afd432e4eb865436d2ab22046676e028d8ac34faf05ccbe29d8"
     }
   ]
 }
