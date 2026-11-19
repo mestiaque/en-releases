@@ -1,33 +1,33 @@
 {
-  "tag_name": "v1.1.0",
-  "name": "ENiShare v1.1.0",
-  "body": "ENiShare 1.1.0: share files between this PC and an iPhone over Wi-Fi, from Safari (no iPhone app).\n\n## Install\n\n- **Windows 10/11**: run `ENiShare-Setup-1.1.0.exe`. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./enishare_1.1.0_amd64.deb`, or run `ENiShare-1.1.0-x86_64.AppImage`.\n\n## What's new\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with frosted glass panels, cards, buttons, switches and notices.\n- Glass uses the light native theme for menus and scrollbars.\n- Update notes show only what changed.\n- The theme button moved into Settings → Appearance.\n\n> Status: tested with a simulated iPhone (automated end-to-end test) and on Ubuntu. Real-iPhone and Windows testing is still in progress; see `docs/TESTING.md`.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enishare-v1.1.0",
-  "published_at": "2026-11-19T05:43:05Z",
+  "tag_name": "v1.1.1",
+  "name": "ENiShare v1.1.1",
+  "body": "## Install\n\n- **Windows 10/11**: run `ENiShare-Setup-1.1.1.exe`. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./enishare_1.1.1_amd64.deb`, or run `ENiShare-1.1.1-x86_64.AppImage`.\n\n## What's new\n\n- Updates are checked against the public EN releases list (github.com/mestiaque/en-releases): no more \"Could not check for updates\" when GitHub's hourly request limit is used up, and updates keep working for apps whose source is private.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enishare-v1.1.1",
+  "published_at": "2026-11-19T08:31:07Z",
   "assets": [
     {
-      "name": "ENiShare-1.1.0-x86_64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.0/ENiShare-1.1.0-x86_64.AppImage",
-      "size": 130861333,
-      "digest": "sha256:6708d8bb89c4a90cae717e53c03cc70b1f1b277bcc18400c6ac5f45d43d82055"
+      "name": "ENiShare-1.1.1-x86_64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-1.1.1-x86_64.AppImage",
+      "size": 130861331,
+      "digest": "sha256:af394972e90694b5a8e023901b8898ad3af24d31a382ff038b53be0fadc03db8"
     },
     {
-      "name": "ENiShare-Setup-1.1.0.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.0/ENiShare-Setup-1.1.0.exe",
-      "size": 124013431,
-      "digest": "sha256:e569e0a95b6ae21bf6d4f56467cf8a40a8fdf67ecf7bfff91a6698470250b736"
+      "name": "ENiShare-Setup-1.1.1.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-Setup-1.1.1.exe",
+      "size": 124013731,
+      "digest": "sha256:5008c492e9dc047f6323541943ff6dc34662704c36c4399b422c4965bd767ed5"
     },
     {
-      "name": "ENiShare-Setup-1.1.0.exe.blockmap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.0/ENiShare-Setup-1.1.0.exe.blockmap",
-      "size": 130527,
-      "digest": "sha256:505019a04b42b7025262fc44b2e8401a609371fc493083801fb08118ae8fbf3d"
+      "name": "ENiShare-Setup-1.1.1.exe.blockmap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-Setup-1.1.1.exe.blockmap",
+      "size": 130710,
+      "digest": "sha256:05709ac9e0693121f7e69d7fa6dd40cf1f35dd63bdec796760aea6a9331a9ee9"
     },
     {
-      "name": "enishare_1.1.0_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.0/enishare_1.1.0_amd64.deb",
-      "size": 103860768,
-      "digest": "sha256:d3754f585dc863c4e8a43a8fd9d9db4b90f80a2b562eed82a35980e2efac75d2"
+      "name": "enishare_1.1.1_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/enishare_1.1.1_amd64.deb",
+      "size": 103860852,
+      "digest": "sha256:ee2bc9b97d3117092263f3c0bacd3d0f78f64058b071b0ece9180f1ba5f7d3e5"
     }
   ]
 }
