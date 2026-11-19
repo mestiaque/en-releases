@@ -1,0 +1,27 @@
+{
+  "tag_name": "v1.1.0",
+  "name": "v1.1.0",
+  "body": "What's new in 1.1.0:\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed.\n- The theme button moved from the toolbar into Settings → Appearance.\n- Splitting a recording at its very start or end no longer makes an empty part.\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enrecorder-v1.1.0",
+  "published_at": "2026-11-19T05:20:07Z",
+  "assets": [
+    {
+      "name": "ENRecorder_1.1.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.0/ENRecorder_1.1.0_amd64.AppImage",
+      "size": 86710776,
+      "digest": "sha256:72ed4b480cf2c6c371329916ada039eb2490f4303f21ef94453d3ee8297b8bec"
+    },
+    {
+      "name": "ENRecorder_1.1.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.0/ENRecorder_1.1.0_amd64.deb",
+      "size": 8642460,
+      "digest": "sha256:da1b567d389f5ea9dc94307c5d60809634cb01040ef8bb594d7cd8ae4ffb7bbd"
+    },
+    {
+      "name": "ENRecorder_1.1.0_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.0/ENRecorder_1.1.0_x64-setup.exe",
+      "size": 98719189,
+      "digest": "sha256:9a6411048ec480e87c547963edaee7fdde47a64feab1597e080bfad4d8f53b20"
+    }
+  ]
+}
