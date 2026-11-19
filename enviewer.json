@@ -1,0 +1,39 @@
+{
+  "tag_name": "v0.3.0",
+  "name": "v0.3.0",
+  "body": "What's new in 0.3.0:\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed.\n- The theme button moved from the toolbar into Settings → Appearance.\n\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enviewer-v0.3.0",
+  "published_at": "2026-11-19T04:43:13Z",
+  "assets": [
+    {
+      "name": "ENViewer-portable-windows-x64.zip",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.0/ENViewer-portable-windows-x64.zip",
+      "size": 13017545,
+      "digest": "sha256:21134c737a7779b522d19b02bdad1902942a90594567b800c97beb8ecb26f4bc"
+    },
+    {
+      "name": "ENViewer_0.3.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.0/ENViewer_0.3.0_amd64.AppImage",
+      "size": 105236984,
+      "digest": "sha256:907f8ed8c997a110a798ac7d14941de5d834bdaa7c04de5e5dd57f76d88f278a"
+    },
+    {
+      "name": "ENViewer_0.3.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.0/ENViewer_0.3.0_amd64.deb",
+      "size": 11785150,
+      "digest": "sha256:aac8538d3b1c0908da802a6e07eabecf0c3ef85b02a1a2b70fbff2c1de4e176e"
+    },
+    {
+      "name": "enviewer_0.3.0_amd64.snap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.0/enviewer_0.3.0_amd64.snap",
+      "size": 190267392,
+      "digest": "sha256:acb43e919882142c61ec8a84905c73e824e49c575e667e1550bae92eacb5f617"
+    },
+    {
+      "name": "ENViewer_0.3.0_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.0/ENViewer_0.3.0_x64-setup.exe",
+      "size": 9152194,
+      "digest": "sha256:d8daf1ff890cbe8e7b7a41884787d0b6c9652a9aa9ddb1bb559b9e2113c41b7d"
+    }
+  ]
+}
