@@ -1,0 +1,45 @@
+{
+  "tag_name": "v0.2.0",
+  "name": "v0.2.0",
+  "body": "What's new in 0.2.0:\n\n- **Liquid Glass theme**: the accent colour at full strength as a wallpaper of 3D ribbons, with clear frosted glass panels, bright rims, glass cards, buttons and switches. Dialogs frost properly.\n- **Windows updates install**: the installer runs silently, the app restarts by itself, and a log is kept in %TEMP%. Update notes show only what changed.\n- The theme button moved from the toolbar into Settings → Appearance.\n- The sidebar folders and counts refresh when a scan starts and finishes between two checks (a folder added from a phone or a browser).\n\n> **Windows:** versions before this one could not finish an update by themselves. Install this version once from the files below; after that, updates install from inside the app.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enstream-v0.2.0",
+  "published_at": "2026-11-19T05:29:24Z",
+  "assets": [
+    {
+      "name": "enstream-server-linux-amd64",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/enstream-server-linux-amd64",
+      "size": 11317432,
+      "digest": "sha256:8ab342520a48258d504a635c42c25e449567c6157da946b2ea63fa7d031adcb7"
+    },
+    {
+      "name": "enstream-server-linux-arm64",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/enstream-server-linux-arm64",
+      "size": 10748088,
+      "digest": "sha256:95728adf87d50138f9abd5d105c32ae55f4940fc467a6bb34c9ba1fba313c0d5"
+    },
+    {
+      "name": "enstream-server-windows-amd64.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/enstream-server-windows-amd64.exe",
+      "size": 12199424,
+      "digest": "sha256:f9a3b0adf11526f4d37b06994026b2a043305498ff276373f15ea3cb5501a781"
+    },
+    {
+      "name": "ENStream_0.2.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/ENStream_0.2.0_amd64.AppImage",
+      "size": 86743544,
+      "digest": "sha256:701b459a48d0b588a00de5ae38e7d670dccf5904c54f4c4b60146b64aa1ef60d"
+    },
+    {
+      "name": "ENStream_0.2.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/ENStream_0.2.0_amd64.deb",
+      "size": 8607716,
+      "digest": "sha256:277dd1de3085767564ce0f2e7eedaa8af1d40cbbe33cd27d4ec50a1843e8f71e"
+    },
+    {
+      "name": "ENStream_0.2.0_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.0/ENStream_0.2.0_x64-setup.exe",
+      "size": 6316203,
+      "digest": "sha256:04ffb68c99bc5b8e23def257f7a4dc60adaa0b1e021c89ea64f3c9e894195854"
+    }
+  ]
+}
