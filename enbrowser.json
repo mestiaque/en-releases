@@ -1,0 +1,27 @@
+{
+  "tag_name": "v0.4.2",
+  "name": "ENBrowser v0.4.2",
+  "body": "ENBrowser 0.4.2: a light browser on the system web engine.\n\n## Install\n\n- **Ubuntu 22.04+**: `sudo apt install ./ENBrowser_0.4.2_amd64.deb` (installs `tor` too), or run the AppImage.\n- **Windows 10/11**: run `ENBrowser_0.4.2_x64-setup.exe` (not tested on Windows yet; Tor is Linux-only for now).\n\nYour presets, bookmarks, history and settings are kept when you update.\n\n## What's new\n\n- Fixed (Linux): ENBrowser closed by itself (WebKit crashed) on some PCs since 0.4.0. Pages are drawn the default way again; Settings → Advanced → Page drawing → Software is the option for PCs that show black or blank areas.\n- **Sites without Tor**: Google and YouTube block Tor (\"unusual traffic\"), so they — with YouTube's video and picture servers — load without Tor from the start. Add or remove sites in Settings → Privacy, or from the menu: \"Open <site> without Tor\" / \"Use Tor for <site>\".\n- **Lighter pages** (Settings → Advanced), for slow graphics: tells sites you prefer less motion (most then stop their animations and cursor effects) and turns off glass blur, the heaviest thing to draw while scrolling.\n- Fixed (Linux): the window flickered grey while typing in the address bar.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enbrowser-v0.4.2",
+  "published_at": "2026-11-19T03:18:09Z",
+  "assets": [
+    {
+      "name": "ENBrowser_0.4.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.2/ENBrowser_0.4.2_amd64.AppImage",
+      "size": 82250232,
+      "digest": "sha256:8e7f0c0f64cc209bedb1136680a529d34b1edc629f3c0b3aebd17f63e7692760"
+    },
+    {
+      "name": "ENBrowser_0.4.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.2/ENBrowser_0.4.2_amd64.deb",
+      "size": 3846352,
+      "digest": "sha256:c9871f69e3009a837e83e17b904c245373142b35b1dda743d23ecadb953bfa69"
+    },
+    {
+      "name": "ENBrowser_0.4.2_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.2/ENBrowser_0.4.2_x64-setup.exe",
+      "size": 2529730,
+      "digest": "sha256:7d7ef580e30376331ba0482b11fd16f24c77f4d6fc57d2436a8b039611d0c8bf"
+    }
+  ]
+}
