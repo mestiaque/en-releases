@@ -1,0 +1,33 @@
+{
+  "tag_name": "v0.2.0",
+  "name": "ENTime 0.2.0",
+  "body": "## Install\n\n- **Windows 10/11**: run `ENTime-Setup-0.2.0.exe`. It installs the ENTime background service, which starts with the computer, and opens the ADMS port (7788) in the firewall. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./entime_0.2.0_amd64.deb` (installs the background service). The AppImage `ENTime-0.2.0-x86_64.AppImage` runs without installing, as long as its window (or tray icon) is open.\n- The first start asks you to create the administrator account.\n\n## What's new\n\nENTime connects ZKTeco attendance devices (TCP/IP and ADMS push) to your ERP or HRM. It was called ENAttend; installing ENTime replaces ENAttend and keeps its devices, employees and punches.\n\n- **Sign-in for everyone**: user accounts with a role. *Administrator* does everything, *Operator* works the devices and employees, and *Viewer* only looks and exports CSV. Wrong passwords lock that user name for a few minutes, and the activity log shows who did what.\n- **License**: one device is free. A license key unlocks any number of devices on one computer. Send the PC ID from *Settings → License* to info@mestiaque.com to get one.\n- **To the ERP**: every punch also carries `pcMac` (this computer's MAC address) and `customCode` (any text you set in *Settings → ERP*, for example a branch code).\n- **Dashboard**: shows who punched today, punches per day and per hour, and how sending to the ERP is going, with a *Send now* button. Working hours and lateness are left to the ERP.\n- **Devices**: a warning when a device clock is off, with *Set the time*.\n- **Also new**: a database backup in *Settings → Data*, and desktop notifications when a device goes offline or comes back.\n- New logo, in English and Bangla.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/entime-v0.2.0",
+  "published_at": "2026-11-22T12:24:10Z",
+  "assets": [
+    {
+      "name": "ENTime-0.2.0-x86_64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.2.0/ENTime-0.2.0-x86_64.AppImage",
+      "size": 127307542,
+      "digest": "sha256:6fdb4678b026c4a6653b3187495544e47059af8f95bb1017e620b87a45064d05"
+    },
+    {
+      "name": "ENTime-Setup-0.2.0.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.2.0/ENTime-Setup-0.2.0.exe",
+      "size": 128112918,
+      "digest": "sha256:c61f29058fd40cb23a0792e4665e6963e665975d3658626dd3aff70ead15b3e7"
+    },
+    {
+      "name": "ENTime-Setup-0.2.0.exe.blockmap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.2.0/ENTime-Setup-0.2.0.exe.blockmap",
+      "size": 134464,
+      "digest": "sha256:af39cf77a15a46a0f83dd875a146b51c988e7a69bd60b6050b5c54a4af22c1a7"
+    },
+    {
+      "name": "entime_0.2.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.2.0/entime_0.2.0_amd64.deb",
+      "size": 102220324,
+      "digest": "sha256:851c8700a685f4dab5124c1ad8a879e9592a8d12d5b05a18c1b0cc040d194fd3"
+    }
+  ]
+}
