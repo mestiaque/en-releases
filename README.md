@@ -1,14 +1,32 @@
-# EN apps — releases
+# EN apps — downloads
 
-Install files and update information for the EN apps by M. Estiaque Ahmed Khan
-(ENViewer, ENPlayer, ENBrowser, ENSave, ENRecorder, ENPost, ENStream, ENiShare, ENDisk, ENDB).
+Desktop apps by M. Estiaque Ahmed Khan — [mestiaque.com](https://mestiaque.com). Latest versions:
 
-- **Downloads:** see [Releases](../../releases) — each release is tagged `<app>-v<version>`.
-- **Update information:** `<app>.json` in this repository is the latest release of that app, in the
-  shape of a GitHub release (`tag_name`, `body`, `html_url`, `assets[]` with `browser_download_url`,
-  `size` and `digest`). The apps read it from `raw.githubusercontent.com` to check for updates, and
-  install a file only when its SHA-256 matches `digest`.
+| App | What it does | Version | Ubuntu / Debian | Linux (any) | Windows 10/11 | More |
+|---|---|---|---|---|---|---|
+| **ENViewer** | Photo viewer and organiser | [0.3.1](https://github.com/mestiaque/en-releases/releases/tag/enviewer-v0.3.1) | [.deb (11 MB)](https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.1/ENViewer_0.3.1_amd64.deb) | [AppImage (100 MB)](https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.1/ENViewer_0.3.1_amd64.AppImage) | [Installer (9 MB)](https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.1/ENViewer_0.3.1_x64-setup.exe) | [ENViewer-portable-windows-x64.zip (12 MB)](https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.1/ENViewer-portable-windows-x64.zip)<br>[enviewer_0.3.1_amd64.snap (181 MB)](https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.1/enviewer_0.3.1_amd64.snap) |
+| **ENPlayer** | Video and music player | [1.5.2](https://github.com/mestiaque/en-releases/releases/tag/enplayer-v1.5.2) | [.deb](https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_all.deb) | — | [Installer (85 MB)](https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/ENPlayer-Setup-1.5.2.exe) | [enplayer_1.5.2_amd64.snap (137 MB)](https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_amd64.snap) |
+| **ENBrowser** | Light, private web browser | [0.4.3](https://github.com/mestiaque/en-releases/releases/tag/enbrowser-v0.4.3) | [.deb (4 MB)](https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_amd64.deb) | [AppImage (78 MB)](https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_amd64.AppImage) | [Installer (2 MB)](https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_x64-setup.exe) |  |
+| **ENSave** | Download manager for files and media | [0.3.1](https://github.com/mestiaque/en-releases/releases/tag/ensave-v0.3.1) | [.deb (8 MB)](https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_amd64.deb) | [AppImage (82 MB)](https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_amd64.AppImage) | [Installer (7 MB)](https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave_0.3.1_x64-setup.exe) | [ENSave-portable-windows-x64.zip (9 MB)](https://github.com/mestiaque/en-releases/releases/download/ensave-v0.3.1/ENSave-portable-windows-x64.zip) |
+| **ENRecorder** | Screen, audio and screenshot recorder | [1.1.1](https://github.com/mestiaque/en-releases/releases/tag/enrecorder-v1.1.1) | [.deb (8 MB)](https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_amd64.deb) | [AppImage (83 MB)](https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_amd64.AppImage) | [Installer (95 MB)](https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_x64-setup.exe) |  |
+| **ENPost** | API client for testing web APIs | [0.2.1](https://github.com/mestiaque/en-releases/releases/tag/enpost-v0.2.1) | [.deb (6 MB)](https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_amd64.deb) | [AppImage (81 MB)](https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_amd64.AppImage) | [Installer (4 MB)](https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_x64-setup.exe) |  |
+| **ENStream** | Personal media server and player | [0.2.1](https://github.com/mestiaque/en-releases/releases/tag/enstream-v0.2.1) | [.deb (8 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_amd64.deb) | [AppImage (83 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_amd64.AppImage) | [Installer (6 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_x64-setup.exe) | [enstream-server-linux-amd64 (11 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-linux-amd64)<br>[enstream-server-linux-arm64 (10 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-linux-arm64)<br>[enstream-server-windows-amd64.exe (12 MB)](https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-windows-amd64.exe) |
+| **ENiShare** | Share files between your computer and iPhone | [1.1.1](https://github.com/mestiaque/en-releases/releases/tag/enishare-v1.1.1) | [.deb (99 MB)](https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/enishare_1.1.1_amd64.deb) | [AppImage (125 MB)](https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-1.1.1-x86_64.AppImage) | [Installer (118 MB)](https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-Setup-1.1.1.exe) |  |
+| **ENDisk** | Disk and partition manager | [0.3.1](https://github.com/mestiaque/en-releases/releases/tag/endisk-v0.3.1) | [.deb (8 MB)](https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.1/ENDisk_0.3.1_amd64.deb) | [AppImage (82 MB)](https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.1/ENDisk_0.3.1_amd64.AppImage) | — |  |
+| **ENDB** | Database studio (desktop, and one-file endb.php for servers) | [0.2.1](https://github.com/mestiaque/en-releases/releases/tag/endb-v0.2.1) | [.deb (8 MB)](https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_amd64.deb) | [AppImage (83 MB)](https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_amd64.AppImage) | [Installer (5 MB)](https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_x64-setup.exe) | [endb.php](https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/endb.php) |
+
+**Ubuntu / Debian:** download the `.deb` and run `sudo apt install ./<file>.deb` (or open it with App Center).
+**Linux (any):** make the AppImage executable (`chmod +x <file>.AppImage`) and run it.
+**Windows:** run the installer.
+
+After installing, each app updates itself: **Settings → About → Updates** (it also checks on its own).
+All versions: [Releases](../../releases) — tagged `<app>-v<version>`.
+
+## For the apps
+
+`<app>.json` in this repository is the latest release of that app, in the shape of a GitHub release
+(`tag_name`, `body`, `html_url`, `assets[]` with `browser_download_url`, `size` and `digest`). The apps
+read it from `raw.githubusercontent.com` to check for updates and install a file only when its SHA-256
+matches `digest`.
 
 This repository holds no source code.
-
-Website: https://mestiaque.com
