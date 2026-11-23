@@ -1,21 +1,21 @@
 {
-  "tag_name": "v0.3.1",
-  "name": "ENDisk v0.3.1",
-  "body": "## Install (Ubuntu 22.04+)\n\n```bash\nsudo apt install ./ENDisk_0.3.1_amd64.deb\n```\n\nOr run the AppImage (`chmod +x ENDisk_0.3.1_amd64.AppImage`). Upgrading from 0.2.0 works the same way.\n\n## What's new\n\n- **Updates from inside the app**: Settings → About → Updates checks for a new version, shows what is new, downloads it (checksum verified) and installs it (.deb, AppImage or Windows installer), then restarts. Updates come from the public EN releases list (github.com/mestiaque/en-releases).\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/endisk-v0.3.1",
-  "published_at": "2026-11-19T08:36:08Z",
+  "tag_name": "v0.3.2",
+  "name": "ENDisk v0.3.2",
+  "body": "## Install (Ubuntu 22.04+)\n\n```bash\nsudo apt install ./ENDisk_0.3.2_amd64.deb\n```\n\nOr run the AppImage (`chmod +x ENDisk_0.3.2_amd64.AppImage`). Upgrading from 0.2.0 works the same way.\n\n## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/endisk-v0.3.2",
+  "published_at": "2026-11-23T07:22:52Z",
   "assets": [
     {
-      "name": "ENDisk_0.3.1_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.1/ENDisk_0.3.1_amd64.AppImage",
-      "size": 85924344,
-      "digest": "sha256:f7c19d7e1275117d9edecdd8e6f9593083daf9880d2a5994357664fc8f2a82eb"
+      "name": "ENDisk_0.3.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.2/ENDisk_0.3.2_amd64.AppImage",
+      "size": 85895672,
+      "digest": "sha256:ac111a2a8e162e44ab9a9ffcc8b9b1a42a5325f0c05f7af4cd172219ba54a311"
     },
     {
-      "name": "ENDisk_0.3.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.1/ENDisk_0.3.1_amd64.deb",
-      "size": 7971894,
-      "digest": "sha256:82164719446612932b2854ac3dc8872f74c43336ef1068156d87b5994e6472a6"
+      "name": "ENDisk_0.3.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endisk-v0.3.2/ENDisk_0.3.2_amd64.deb",
+      "size": 7941988,
+      "digest": "sha256:cd1dfd7379a08d5d4b355957741f45794943972968a921f48f05b4325259a0df"
     }
   ]
 }
