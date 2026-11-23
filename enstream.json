@@ -1,45 +1,45 @@
 {
-  "tag_name": "v0.2.1",
-  "name": "v0.2.1",
-  "body": "What's new in 0.2.1:\n\n- ENStream 0.2.1: updates from the public EN releases list\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enstream-v0.2.1",
-  "published_at": "2026-11-19T07:47:02Z",
+  "tag_name": "v0.2.2",
+  "name": "v0.2.2",
+  "body": "## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enstream-v0.2.2",
+  "published_at": "2026-11-23T16:52:49Z",
   "assets": [
     {
       "name": "enstream-server-linux-amd64",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-linux-amd64",
-      "size": 11317432,
-      "digest": "sha256:7c0fc6e5647e7ebf2caeaed40c876f8bde449de6a4a87892056198d89ec84f0e"
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/enstream-server-linux-amd64",
+      "size": 11313336,
+      "digest": "sha256:31c410b5e8dfc291c9cf9234fc5af29ec243f532afab1f14377a15efe69ba55c"
     },
     {
       "name": "enstream-server-linux-arm64",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-linux-arm64",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/enstream-server-linux-arm64",
       "size": 10748088,
-      "digest": "sha256:b9b5f540ceacbfaad5fe72c957534b73adc0575197adc30091f7bd9d0edeb0e8"
+      "digest": "sha256:f07a6f629c00a79ef1b5285a924fcb6341b2e8f729c065f24aa7ddb0fd89ef5e"
     },
     {
       "name": "enstream-server-windows-amd64.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/enstream-server-windows-amd64.exe",
-      "size": 12199424,
-      "digest": "sha256:098b5663a0425d636e272d89058e6a8a6a9dc2bef1e8b1a1059709b04a9f432e"
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/enstream-server-windows-amd64.exe",
+      "size": 12197376,
+      "digest": "sha256:dfeda31ec52502e050f8c0b54a6b4ccf4bceb0b183f27560ec4c11dcca6443cc"
     },
     {
-      "name": "ENStream_0.2.1_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_amd64.AppImage",
-      "size": 86743544,
-      "digest": "sha256:8666bf9776d280e53faa43a7a0b0e29a4c3cdd621c140219489f01c5397b81ed"
+      "name": "ENStream_0.2.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/ENStream_0.2.2_amd64.AppImage",
+      "size": 86723064,
+      "digest": "sha256:cace4481f6c555f3395e85dfdca3841ddd880312a719051149cc466883474b8a"
     },
     {
-      "name": "ENStream_0.2.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_amd64.deb",
-      "size": 8607742,
-      "digest": "sha256:8e99c9c811cf29b2784660d11e29e31def53f0e749bf8ac0dfd1a0e01b0e7bc1"
+      "name": "ENStream_0.2.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/ENStream_0.2.2_amd64.deb",
+      "size": 8574818,
+      "digest": "sha256:9d1146b716f2c9af46a53d8d712255d235333b148fe053a1f841113b362407c3"
     },
     {
-      "name": "ENStream_0.2.1_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.1/ENStream_0.2.1_x64-setup.exe",
-      "size": 6312821,
-      "digest": "sha256:ebdc67e3053e98c6b8ed818b761083573a9982ffc2e4211180d7c61b7bd11f9e"
+      "name": "ENStream_0.2.2_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enstream-v0.2.2/ENStream_0.2.2_x64-setup.exe",
+      "size": 6286642,
+      "digest": "sha256:64827969791ee7aa3c1edca069476953f44c1c38012477afdf4714e44331c354"
     }
   ]
 }
