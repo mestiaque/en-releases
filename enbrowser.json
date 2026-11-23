@@ -1,27 +1,27 @@
 {
-  "tag_name": "v0.4.3",
-  "name": "ENBrowser v0.4.3",
-  "body": "## Install\n\n- **Ubuntu 22.04+**: `sudo apt install ./ENBrowser_0.4.3_amd64.deb` (installs `tor` too), or run the AppImage.\n- **Windows 10/11**: run `ENBrowser_0.4.3_x64-setup.exe` (not tested on Windows yet; Tor is Linux-only for now).\n\nYour presets, bookmarks, history and settings are kept when you update.\n\n## What's new\n\n- **Updates from inside the app**: Settings → About → Updates checks for a new version, shows what is new, downloads it (checksum verified) and installs it (.deb, AppImage or Windows installer), then restarts. Updates come from the public EN releases list (github.com/mestiaque/en-releases).\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enbrowser-v0.4.3",
-  "published_at": "2026-11-19T08:01:09Z",
+  "tag_name": "v0.4.4",
+  "name": "ENBrowser v0.4.4",
+  "body": "## Install\n\n- **Ubuntu 22.04+**: `sudo apt install ./ENBrowser_0.4.4_amd64.deb` (installs `tor` too), or run the AppImage.\n- **Windows 10/11**: run `ENBrowser_0.4.4_x64-setup.exe` (not tested on Windows yet; Tor is Linux-only for now).\n\nYour presets, bookmarks, history and settings are kept when you update.\n\n## What's new\n\n- **Sleeping tabs.** A background tab you have not looked at for 15 minutes stops using memory. It keeps its place and title, and it loads again when you open it. A tab playing sound stays awake. You can change the time, or turn this off, in *Settings → Advanced → Sleeping tabs*.\n- **Faster start with many tabs.** Tabs from the last session wait until you open them, instead of all loading at once.\n- **No more black flashes.** While the window grows, or a busy page catches up, the empty area shows the theme colour instead of black.\n- **Lighter pages** now also turns off the glass blur in the tab bar and toolbar.\n- **New app icon** from the new EN family icon set.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enbrowser-v0.4.4",
+  "published_at": "2026-11-23T16:29:50Z",
   "assets": [
     {
-      "name": "ENBrowser_0.4.3_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_amd64.AppImage",
-      "size": 82291192,
-      "digest": "sha256:8b692d1c93e57accc6bcc658db61a010aab2b07ef32edecbf41d2dfd49ecfa51"
+      "name": "ENBrowser_0.4.4_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.4/ENBrowser_0.4.4_amd64.AppImage",
+      "size": 82270712,
+      "digest": "sha256:a456af51979a46b4896f03367a5ba5e2b04453c02eacd12aa2bd70a67916998d"
     },
     {
-      "name": "ENBrowser_0.4.3_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_amd64.deb",
-      "size": 3891036,
-      "digest": "sha256:396ff4c3a1373ce2a1530b8bcb8c7fad3c24621cc6008cf5ca4daf46e90e4730"
+      "name": "ENBrowser_0.4.4_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.4/ENBrowser_0.4.4_amd64.deb",
+      "size": 3867500,
+      "digest": "sha256:11c5416045335428eb2ae788ece31f18a431a8348ec7dfd8a50fa461abf18344"
     },
     {
-      "name": "ENBrowser_0.4.3_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.3/ENBrowser_0.4.3_x64-setup.exe",
-      "size": 2559301,
-      "digest": "sha256:3c34bf3237771923f21e5baa2faceb82c05c96f707b059e4634fd39ef57c7ee8"
+      "name": "ENBrowser_0.4.4_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enbrowser-v0.4.4/ENBrowser_0.4.4_x64-setup.exe",
+      "size": 2536075,
+      "digest": "sha256:dad7abb6814943433b73dce291e0bdb03647f1c7cb997949ee5089b41b159dfd"
     }
   ]
 }
