@@ -1,33 +1,33 @@
 {
-  "tag_name": "v1.1.1",
-  "name": "ENiShare v1.1.1",
-  "body": "## Install\n\n- **Windows 10/11**: run `ENiShare-Setup-1.1.1.exe`. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./enishare_1.1.1_amd64.deb`, or run `ENiShare-1.1.1-x86_64.AppImage`.\n\n## What's new\n\n- Updates are checked against the public EN releases list (github.com/mestiaque/en-releases): no more \"Could not check for updates\" when GitHub's hourly request limit is used up, and updates keep working for apps whose source is private.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enishare-v1.1.1",
-  "published_at": "2026-11-19T08:31:07Z",
+  "tag_name": "v1.1.2",
+  "name": "ENiShare v1.1.2",
+  "body": "## Install\n\n- **Windows 10/11**: run `ENiShare-Setup-1.1.2.exe`. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./enishare_1.1.2_amd64.deb`, or run `ENiShare-1.1.2-x86_64.AppImage`.\n\n## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar and the installer. The iPhone page and its home-screen icon have it too.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enishare-v1.1.2",
+  "published_at": "2026-11-23T07:11:54Z",
   "assets": [
     {
-      "name": "ENiShare-1.1.1-x86_64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-1.1.1-x86_64.AppImage",
-      "size": 130861331,
-      "digest": "sha256:af394972e90694b5a8e023901b8898ad3af24d31a382ff038b53be0fadc03db8"
+      "name": "ENiShare-1.1.2-x86_64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.2/ENiShare-1.1.2-x86_64.AppImage",
+      "size": 130664832,
+      "digest": "sha256:7b972e6729149185f309e37e5f07fd4d2257c7f560a0c6e1383ef2a1efaecc5c"
     },
     {
-      "name": "ENiShare-Setup-1.1.1.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-Setup-1.1.1.exe",
-      "size": 124013731,
-      "digest": "sha256:5008c492e9dc047f6323541943ff6dc34662704c36c4399b422c4965bd767ed5"
+      "name": "ENiShare-Setup-1.1.2.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.2/ENiShare-Setup-1.1.2.exe",
+      "size": 123932424,
+      "digest": "sha256:67784755a0fe2d2dce42377faf0b516426a180a69a2e06a8efd1673f58f14c7b"
     },
     {
-      "name": "ENiShare-Setup-1.1.1.exe.blockmap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/ENiShare-Setup-1.1.1.exe.blockmap",
-      "size": 130710,
-      "digest": "sha256:05709ac9e0693121f7e69d7fa6dd40cf1f35dd63bdec796760aea6a9331a9ee9"
+      "name": "ENiShare-Setup-1.1.2.exe.blockmap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.2/ENiShare-Setup-1.1.2.exe.blockmap",
+      "size": 130503,
+      "digest": "sha256:716f4d2e7cec7ef9b335c55695fa5427ef2a7bfe5dbd022d9eb8ae5c47f56d81"
     },
     {
-      "name": "enishare_1.1.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.1/enishare_1.1.1_amd64.deb",
-      "size": 103860852,
-      "digest": "sha256:ee2bc9b97d3117092263f3c0bacd3d0f78f64058b071b0ece9180f1ba5f7d3e5"
+      "name": "enishare_1.1.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enishare-v1.1.2/enishare_1.1.2_amd64.deb",
+      "size": 103664948,
+      "digest": "sha256:b038afb381213e751effceb2f460daa96a7dde7dc163bd8a651818db2b5ff3ce"
     }
   ]
 }
