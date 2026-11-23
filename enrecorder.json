@@ -1,27 +1,27 @@
 {
-  "tag_name": "v1.1.1",
-  "name": "v1.1.1",
-  "body": "What's new in 1.1.1:\n\n- ENRecorder 1.1.1: updates from the public EN releases list\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enrecorder-v1.1.1",
-  "published_at": "2026-11-19T07:16:43Z",
+  "tag_name": "v1.1.2",
+  "name": "v1.1.2",
+  "body": "## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enrecorder-v1.1.2",
+  "published_at": "2026-11-23T16:39:19Z",
   "assets": [
     {
-      "name": "ENRecorder_1.1.1_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_amd64.AppImage",
-      "size": 86710776,
-      "digest": "sha256:2e467558fe2f1e8a7d9751018ebe1f62a192bce8ee4d382e6229cbb2501bd564"
+      "name": "ENRecorder_1.1.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.2/ENRecorder_1.1.2_amd64.AppImage",
+      "size": 86678008,
+      "digest": "sha256:ec8bd04330eeaabf6e1c64fc9558bf03655bd6b51304087e42f59c75932b6cea"
     },
     {
-      "name": "ENRecorder_1.1.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_amd64.deb",
-      "size": 8642918,
-      "digest": "sha256:29c65c116ba43def4eea7e6a6fb8a1a3ace073fadf5e2c436828b2c59c11ea59"
+      "name": "ENRecorder_1.1.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.2/ENRecorder_1.1.2_amd64.deb",
+      "size": 8611672,
+      "digest": "sha256:2fd92301991426d3a0cb6cf31a9a6c1a8e0fede8e3cc76b163b672527d4cba6e"
     },
     {
-      "name": "ENRecorder_1.1.1_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.1/ENRecorder_1.1.1_x64-setup.exe",
-      "size": 99788859,
-      "digest": "sha256:0b9f14b68a51e628846d637e7fe4ae413845d7ef192f29c9deb1873eb9d368aa"
+      "name": "ENRecorder_1.1.2_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enrecorder-v1.1.2/ENRecorder_1.1.2_x64-setup.exe",
+      "size": 99734635,
+      "digest": "sha256:5a539fe4473e5bcc2365aca4678dd81c9c7c88c04b35a296bf8329551df02968"
     }
   ]
 }
