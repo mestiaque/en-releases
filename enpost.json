@@ -1,27 +1,27 @@
 {
-  "tag_name": "v0.2.1",
-  "name": "v0.2.1",
-  "body": "What's new in 0.2.1:\n\n- ENPost 0.2.1: updates from the public EN releases list\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enpost-v0.2.1",
-  "published_at": "2026-11-19T07:35:56Z",
+  "tag_name": "v0.2.2",
+  "name": "v0.2.2",
+  "body": "## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enpost-v0.2.2",
+  "published_at": "2026-11-23T16:26:24Z",
   "assets": [
     {
-      "name": "ENPost_0.2.1_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_amd64.AppImage",
-      "size": 84904440,
-      "digest": "sha256:e2ddf905885c68c0b13976f9ff127d04fe9fcb5267ff01bf5cf8237e46f3f6e8"
+      "name": "ENPost_0.2.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.2/ENPost_0.2.2_amd64.AppImage",
+      "size": 84879864,
+      "digest": "sha256:19e616303f4b2f5ea786db8d05c57de09c6d93df455a3577aadc1a936becc262"
     },
     {
-      "name": "ENPost_0.2.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_amd64.deb",
-      "size": 6791222,
-      "digest": "sha256:b1d9c48380d93f3b12faa76c98d77f0885683d80725c16f1a0f150096d8ef125"
+      "name": "ENPost_0.2.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.2/ENPost_0.2.2_amd64.deb",
+      "size": 6763014,
+      "digest": "sha256:e21aec145674003c6b56e6f1388bda70b5ed2c4d39a7f3f3601865cb3b49141e"
     },
     {
-      "name": "ENPost_0.2.1_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.1/ENPost_0.2.1_x64-setup.exe",
-      "size": 4665001,
-      "digest": "sha256:9764ed6e52dffe024e5e4900088e91f5a5b3e5312ff248a02a79f6f5d87cb236"
+      "name": "ENPost_0.2.2_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enpost-v0.2.2/ENPost_0.2.2_x64-setup.exe",
+      "size": 4647915,
+      "digest": "sha256:ce48cfab4f834d0dbfc74b115dc0353374791ecfc664629c9c1ed6afe127472d"
     }
   ]
 }
