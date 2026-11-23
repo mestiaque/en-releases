@@ -1,39 +1,39 @@
 {
-  "tag_name": "v0.2.1",
-  "name": "ENDB v0.2.1",
-  "body": "## Install\n\n- **Ubuntu 22.04+**: `sudo apt install ./ENDB_0.2.1_amd64.deb`, or run the AppImage.\n- **Windows 10/11**: run `ENDB_0.2.1_x64-setup.exe`.\n- **Portable (any PHP 8.1+ server)**: upload `endb.php` (checksum in `endb.php.sha256`) and open it in a browser.\n\n## What's new\n\n- **Updates from inside the app**: Settings → About → Updates checks for a new version, shows what is new, downloads it (checksum verified) and installs it (.deb, AppImage or Windows installer), then restarts. Updates come from the public EN releases list (github.com/mestiaque/en-releases).\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/endb-v0.2.1",
-  "published_at": "2026-11-19T08:14:22Z",
+  "tag_name": "v0.2.2",
+  "name": "ENDB v0.2.2",
+  "body": "## Install\n\n- **Ubuntu 22.04+**: `sudo apt install ./ENDB_0.2.2_amd64.deb`, or run the AppImage.\n- **Windows 10/11**: run `ENDB_0.2.2_x64-setup.exe`.\n- **Portable (any PHP 8.1+ server)**: upload `endb.php` (checksum in `endb.php.sha256`) and open it in a browser.\n\n## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/endb-v0.2.2",
+  "published_at": "2026-11-23T17:39:04Z",
   "assets": [
     {
       "name": "endb.php",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/endb.php",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.2/endb.php",
       "size": 605196,
       "digest": "sha256:85a131711503c300962635044a63f2575fa4ab9bfde719c54ba5e51f9e335e5d"
     },
     {
       "name": "endb.php.sha256",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/endb.php.sha256",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.2/endb.php.sha256",
       "size": 75,
       "digest": "sha256:74f63772268391b6308e4bc2939efb5effb08d1269e8f25ec8b2b45862a820ce"
     },
     {
-      "name": "ENDB_0.2.1_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_amd64.AppImage",
-      "size": 86632952,
-      "digest": "sha256:49e2c86a4cca85fd92a3e325f2e48c623916fa101680846297539e86a659c841"
+      "name": "ENDB_0.2.2_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.2/ENDB_0.2.2_amd64.AppImage",
+      "size": 86534648,
+      "digest": "sha256:4d11ce337050d6e236a377b6825d32afae2b5c748e8e653c7966df2e24490887"
     },
     {
-      "name": "ENDB_0.2.1_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_amd64.deb",
-      "size": 8857222,
-      "digest": "sha256:6c44aad18384299e6f6dca88244602cb869fa89c9160e9bd3e1ba9370ab80da3"
+      "name": "ENDB_0.2.2_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.2/ENDB_0.2.2_amd64.deb",
+      "size": 8809818,
+      "digest": "sha256:ae581fd365da8085ea5c2e44ff14c0cc270ad60855f6174c54ca17325b20f153"
     },
     {
-      "name": "ENDB_0.2.1_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.1/ENDB_0.2.1_x64-setup.exe",
-      "size": 5261058,
-      "digest": "sha256:122dc0763fa5dfc81ce5194d2db323c69e13797a9e0f600cc992c6b071de41c7"
+      "name": "ENDB_0.2.2_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/endb-v0.2.2/ENDB_0.2.2_x64-setup.exe",
+      "size": 5224992,
+      "digest": "sha256:d70b26b665cfbb7558fda2d415fdaa2b91647b7e063076a07da4e885358e0cd1"
     }
   ]
 }
