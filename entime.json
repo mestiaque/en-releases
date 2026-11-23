@@ -1,33 +1,33 @@
 {
-  "tag_name": "v0.3.0",
-  "name": "ENTime 0.3.0",
-  "body": "## Install\n\n- **Windows 10/11**: run `ENTime-Setup-0.3.0.exe`. It installs the ENTime background service, which starts with the computer. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./entime_0.3.0_amd64.deb`. The AppImage `ENTime-0.3.0-x86_64.AppImage` runs without installing, as long as its window (or tray icon) is open.\n- Already on ENTime 0.2.0: update from inside the app (*Settings → General → Updates*), or install over it. Users, devices and punches stay.\n\n## What's new\n\n**Roles you can shape.** A role is now a set of permissions, chosen with checkboxes in *Settings → Roles*:\n\n- **Devices**: see, work them (check, read punches, send and get employees, set the clock), or add, edit and remove them\n- **Employees**: see, edit, export CSV\n- **Attendance**: see, send to the ERP now, export CSV\n- **Activity log**: see it\n- **Settings**: change them\n\nHow roles work:\n\n- An action always comes with its page.\n- *Administrator* still has everything and cannot be changed.\n- *Operator* and *Viewer* keep their usual permissions, and you can now change them.\n- You can make your own roles, for example *HR*: only attendance and its CSV.\n- Only administrators can manage users and roles, the license and backups, change the firewall and start-up settings, and clear the activity log.\n\nWhen a role changes, signed-in users get the new permissions at once, without signing in again. Their window updates by itself: pages and buttons they may no longer use disappear. Live punches only go to users who may see attendance.\n\nAlso:\n\n- Sending punches to the ERP never needs anyone to be signed in.\n- *Settings → Account* lists what you may do.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/entime-v0.3.0",
-  "published_at": "2026-11-22T19:29:16Z",
+  "tag_name": "v0.3.1",
+  "name": "ENTime 0.3.1",
+  "body": "## Install\n\n- **Windows 10/11**: run `ENTime-Setup-0.3.1.exe`. It installs the ENTime background service, which starts with the computer. The installer is not code-signed yet, so SmartScreen may show *Windows protected your PC*; click *More info → Run anyway*.\n- **Ubuntu 22.04+**: `sudo apt install ./entime_0.3.1_amd64.deb`. The AppImage `ENTime-0.3.1-x86_64.AppImage` runs without installing, as long as its window (or tray icon) is open.\n- Already on ENTime 0.2.0: update from inside the app (*Settings → General → Updates*), or install over it. Users, devices and punches stay.\n\n## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/entime-v0.3.1",
+  "published_at": "2026-11-23T06:55:34Z",
   "assets": [
     {
-      "name": "ENTime-0.3.0-x86_64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.0/ENTime-0.3.0-x86_64.AppImage",
-      "size": 127315612,
-      "digest": "sha256:1c033bbeac6fcb5c67d3265d6a53e24d213ccafa2d54bf28d13eb7a96c3e5eca"
+      "name": "ENTime-0.3.1-x86_64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.1/ENTime-0.3.1-x86_64.AppImage",
+      "size": 127262395,
+      "digest": "sha256:3f609b42bd2c070d049dfa3a492b3fe2d304d49f64c47a162a64afee1b8e5bd2"
     },
     {
-      "name": "ENTime-Setup-0.3.0.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.0/ENTime-Setup-0.3.0.exe",
-      "size": 128117537,
-      "digest": "sha256:37e5db716b2aa4fca479060222da04bdd58325db2b7b146a5535b05b99f76730"
+      "name": "ENTime-Setup-0.3.1.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.1/ENTime-Setup-0.3.1.exe",
+      "size": 128032294,
+      "digest": "sha256:715614f08dfe5e9f01030fca0f5b7723f4108bb59952177560bf08fde736afb3"
     },
     {
-      "name": "ENTime-Setup-0.3.0.exe.blockmap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.0/ENTime-Setup-0.3.0.exe.blockmap",
-      "size": 134457,
-      "digest": "sha256:0c8b7ebddc87c40afe9e93f2fb0e3955265e2823004547d3088d928192554bf5"
+      "name": "ENTime-Setup-0.3.1.exe.blockmap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.1/ENTime-Setup-0.3.1.exe.blockmap",
+      "size": 134185,
+      "digest": "sha256:640239a25b4c4a7797fc873de06da1a1c4ace8dc183ea2dd3a1fcb877e662c7a"
     },
     {
-      "name": "entime_0.3.0_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.0/entime_0.3.0_amd64.deb",
-      "size": 102224440,
-      "digest": "sha256:f692287335d7a66c731ea5152d5ff80f43c9cfcaaed7d38154c70025acd1eea3"
+      "name": "entime_0.3.1_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entime-v0.3.1/entime_0.3.1_amd64.deb",
+      "size": 102172300,
+      "digest": "sha256:f11a34350ebbc8d27b399b8a554e93a9f46572145176d24bcc2eccdf377f0531"
     }
   ]
 }
