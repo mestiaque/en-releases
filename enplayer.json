@@ -1,27 +1,27 @@
 {
-  "tag_name": "v1.5.2",
-  "name": "v1.5.2",
-  "body": "What's new in 1.5.2:\n\n- ENPlayer 1.5.2: updates from the public EN releases list\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enplayer-v1.5.2",
-  "published_at": "2026-11-19T07:05:16Z",
+  "tag_name": "v1.5.3",
+  "name": "v1.5.3",
+  "body": "## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enplayer-v1.5.3",
+  "published_at": "2026-11-23T16:48:06Z",
   "assets": [
     {
-      "name": "ENPlayer-Setup-1.5.2.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/ENPlayer-Setup-1.5.2.exe",
-      "size": 89507409,
-      "digest": "sha256:87c033ef332372e2647e308c872d185261089dd9a18e4e01dba84536b7934085"
+      "name": "ENPlayer-Setup-1.5.3.exe",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.3/ENPlayer-Setup-1.5.3.exe",
+      "size": 90167067,
+      "digest": "sha256:87d4c260891df1a50ace95b7fffbe1f923911ef7c166b33584d3d83f3cc9c17f"
     },
     {
-      "name": "enplayer_1.5.2_all.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_all.deb",
-      "size": 286264,
-      "digest": "sha256:2387e8ada29140945cdb89b7e6526a955afc3c9c8d5e0c3c22d107e56dd0a493"
+      "name": "enplayer_1.5.3_all.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.3/enplayer_1.5.3_all.deb",
+      "size": 248008,
+      "digest": "sha256:e32619eb75bc75bc1bd0142c21ae45b0673c1df997598eb29848c10c25a01329"
     },
     {
-      "name": "enplayer_1.5.2_amd64.snap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.2/enplayer_1.5.2_amd64.snap",
-      "size": 143155200,
-      "digest": "sha256:9b13f62ff06c3afd432e4eb865436d2ab22046676e028d8ac34faf05ccbe29d8"
+      "name": "enplayer_1.5.3_amd64.snap",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enplayer-v1.5.3/enplayer_1.5.3_amd64.snap",
+      "size": 143118336,
+      "digest": "sha256:e945a5861f76526f3af888b38ba8d9c5964ce78935fd88d420fe2aff68944b8d"
     }
   ]
 }
