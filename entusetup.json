@@ -1,0 +1,21 @@
+{
+  "tag_name": "v0.1.0",
+  "name": "ENTuSetup 0.1.0",
+  "body": "ENTuSetup 0.1.0 for Ubuntu Linux — the first release.\n\nSet up Ubuntu from one window: see what is installed and what is missing, install and remove apps, apply whole setup profiles, install updates, set up developer tools and change system settings.\n\n## Install (Ubuntu 22.04+)\n\n```bash\nsudo apt install ./ENTuSetup_0.1.0_amd64.deb\n```\n\nOr run the AppImage (`chmod +x ENTuSetup_0.1.0_amd64.AppImage`). The .deb is recommended: it installs the helper and the polkit rule that Apply uses.\n\n## What's in it\n\n- **Dashboard** and a live **Monitor**: this computer, CPU per thread, memory, network, disks, temperature and programs.\n- **Apps**: about 80 apps in 8 categories from apt, vendor repositories, vendor .deb files, snap, Flatpak, Composer and the EN releases list (checksum verified); Install and Remove.\n- **Setup profiles**: Essentials, Laravel developer, Web developer, Python, Designer, Video creator, Office, All EN apps, and your own (from this computer, export and import).\n- **Installed**: everything from apt, snap, Flatpak and AppImages with sizes; Ubuntu's own packages are locked.\n- **Updates & clean-up**: all updates at once, unused packages, caches, old snaps, old logs, thumbnails, trash.\n- **Developer**: Git identity and shortcuts, SSH key, nginx sites at http://name.test, PHP default version, Composer, Node.js, database services.\n- **System**: desktop settings, startup apps, services, drivers, firewall, swap, power mode, computer name.\n- **History** of every change with its output.\n\nChanges are collected first and applied together with one password prompt.\n",
+  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/entusetup-v0.1.0",
+  "published_at": "2026-11-24T03:34:33Z",
+  "assets": [
+    {
+      "name": "ENTuSetup_0.1.0_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entusetup-v0.1.0/ENTuSetup_0.1.0_amd64.AppImage",
+      "size": 86174200,
+      "digest": "sha256:9187f3ea6bc05ce85ac969cf049d5af79ca68419140b599b113d7296bb793daa"
+    },
+    {
+      "name": "ENTuSetup_0.1.0_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/entusetup-v0.1.0/ENTuSetup_0.1.0_amd64.deb",
+      "size": 8234490,
+      "digest": "sha256:8a59be6001a29321b119d21aca980220b3f27c1df6fd6979439f595db640281b"
+    }
+  ]
+}
