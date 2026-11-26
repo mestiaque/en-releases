@@ -1,39 +1,33 @@
 {
-  "tag_name": "v0.3.2",
-  "name": "v0.3.2",
-  "body": "## What's new\n\n- **New app icon** from the new EN family icon set: in the app, the app menu, the taskbar or dock, and the installer.\n",
-  "html_url": "https://github.com/mestiaque/en-releases/releases/tag/enviewer-v0.3.2",
-  "published_at": "2026-11-23T17:13:31Z",
+  "tag_name": "v0.3.3",
+  "name": "v0.3.3",
+  "body": "## What's new\n\n- ENViewer opens centered at about one quarter of the display area.\n- Keyboard shortcuts no longer bring the viewer toolbars back.\n",
+  "html_url": "https://github.com/mestiaque/enviewer/releases/tag/v0.3.3",
+  "published_at": "2026-11-26T18:41:01Z",
   "assets": [
     {
       "name": "ENViewer-portable-windows-x64.zip",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.2/ENViewer-portable-windows-x64.zip",
-      "size": 12984135,
-      "digest": "sha256:438155175836a954c8a28463260d089094218f40f740a3775a0c836975ff1710"
+      "browser_download_url": "https://github.com/mestiaque/enviewer/releases/download/v0.3.3/ENViewer-portable-windows-x64.zip",
+      "size": 12986197,
+      "digest": "sha256:e76aa2511b5d89b9050065dd2145046732c6812b80963a29a8421d4e8fcab823"
     },
     {
-      "name": "ENViewer_0.3.2_amd64.AppImage",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.2/ENViewer_0.3.2_amd64.AppImage",
-      "size": 105216504,
-      "digest": "sha256:e2967561c6c45c1ebe76e937c599fdd59ea48b125ee9cd22a60b816a2bad7951"
+      "name": "ENViewer_0.3.3_amd64.AppImage",
+      "browser_download_url": "https://github.com/mestiaque/enviewer/releases/download/v0.3.3/ENViewer_0.3.3_amd64.AppImage",
+      "size": 105220600,
+      "digest": "sha256:1da173357f2bde4928d4741134e58d3ad9431001ea9880725893ffb7963a232b"
     },
     {
-      "name": "ENViewer_0.3.2_amd64.deb",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.2/ENViewer_0.3.2_amd64.deb",
-      "size": 11761816,
-      "digest": "sha256:795fca1b41ba8a2b02928a22dc9edd2cc0014d7514b78a78c29cd8d80c9f2d5f"
+      "name": "ENViewer_0.3.3_amd64.deb",
+      "browser_download_url": "https://github.com/mestiaque/enviewer/releases/download/v0.3.3/ENViewer_0.3.3_amd64.deb",
+      "size": 11763402,
+      "digest": "sha256:2729f39df5cee5758849047a2ef516af3041a1e50df80157b3ba92e8d59d8150"
     },
     {
-      "name": "enviewer_0.3.2_amd64.snap",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.2/enviewer_0.3.2_amd64.snap",
-      "size": 190189568,
-      "digest": "sha256:39546a86b4882dff9bff428a5065a742cf393e492007d8f6686ef95e1612e039"
-    },
-    {
-      "name": "ENViewer_0.3.2_x64-setup.exe",
-      "browser_download_url": "https://github.com/mestiaque/en-releases/releases/download/enviewer-v0.3.2/ENViewer_0.3.2_x64-setup.exe",
-      "size": 9124354,
-      "digest": "sha256:d5ad81a9c6e5f0119d3ec0ace9aaad24e85ed0e8921f204e157f05dba4c72ead"
+      "name": "ENViewer_0.3.3_x64-setup.exe",
+      "browser_download_url": "https://github.com/mestiaque/enviewer/releases/download/v0.3.3/ENViewer_0.3.3_x64-setup.exe",
+      "size": 9131182,
+      "digest": "sha256:8a8e3835d6a3230627c9c74c241f1e31d73594997d7c39b7156f52370bc8ba34"
     }
   ]
 }
