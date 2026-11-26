@@ -1,27 +1,21 @@
 {
-  "tag_name": "v1.5.4",
-  "name": "ENPlayer 1.5.4",
-  "body": "Fix Windows playback with current mpv/libmpv versions. Add a minimize control to the player, and open the app at a centered quarter-area window size by default.",
-  "html_url": "https://github.com/mestiaque/enplayer/releases/tag/v1.5.4",
-  "published_at": "2026-11-26T16:14:18Z",
+  "tag_name": "v1.5.5",
+  "name": "v1.5.5",
+  "body": "Keyboard seek, play/pause, volume, and track navigation no longer reveal the player bars. Reduced the top and bottom bar padding and button sizes across themes.",
+  "html_url": "https://github.com/mestiaque/enplayer/releases/tag/v1.5.5",
+  "published_at": "2026-11-26T17:00:40Z",
   "assets": [
     {
-      "name": "ENPlayer-Setup-1.5.4.exe",
-      "browser_download_url": "https://github.com/mestiaque/enplayer/releases/download/v1.5.4/ENPlayer-Setup-1.5.4.exe",
-      "size": 90167743,
-      "digest": "sha256:f8576130bb37316e6b2caa6882962de0155c830091baeba99990f2c4df03206a"
+      "name": "ENPlayer-Setup-1.5.5.exe",
+      "browser_download_url": "https://github.com/mestiaque/enplayer/releases/download/v1.5.5/ENPlayer-Setup-1.5.5.exe",
+      "size": 90172533,
+      "digest": "sha256:2c9553483df00ef9338061aa01ee9a024221133043ff0e429370d697fbc3f00c"
     },
     {
-      "name": "enplayer_1.5.4_all.deb",
-      "browser_download_url": "https://github.com/mestiaque/enplayer/releases/download/v1.5.4/enplayer_1.5.4_all.deb",
-      "size": 248876,
-      "digest": "sha256:fceb5cf5e105f6d6e0fc90dce77bd85d7ddb2cf5ca8de7a8dd44d04460e8419e"
-    },
-    {
-      "name": "enplayer_1.5.4_amd64.snap",
-      "browser_download_url": "https://github.com/mestiaque/enplayer/releases/download/v1.5.4/enplayer_1.5.4_amd64.snap",
-      "size": 143118336,
-      "digest": "sha256:62f5bee60838eaa9eaa7c3cd615344c8e668f41568840277b0f1707900f05104"
+      "name": "enplayer_1.5.5_all.deb",
+      "browser_download_url": "https://github.com/mestiaque/enplayer/releases/download/v1.5.5/enplayer_1.5.5_all.deb",
+      "size": 249078,
+      "digest": "sha256:7024d2dcd4607cca9cad9c11aebba6f5acbed7d61f64d80881c71840fe38c4e4"
     }
   ]
 }
